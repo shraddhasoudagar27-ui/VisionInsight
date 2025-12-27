@@ -23,7 +23,7 @@ One-click PDF report generation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |------|--------------|
@@ -79,3 +79,4 @@ Exporting formatted PDF reports
 ### Contributing
 Pull requests are welcome.
 Create an issue first to discuss changes.
+
